@@ -21,6 +21,10 @@ function HomePage() {
       id: 1,
       nombre: "Prueba.Fade",
     },
+    {
+      id: 2,
+      nombre: "Taper Fade"
+    }
   ]);
   // proveedores
   const [proveedores] = useState([
